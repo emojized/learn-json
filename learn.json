@@ -1,6 +1,7 @@
-[{
-	'emoji':'\u1F60E',
-	'apeEmoji':'\u1F649'
-}]
-
+{
+	"chatEmoji":[
+		{'emoji':'\u1F60E'},
+		{'emoji':'\u1F649'}
+     ]
+}
 
